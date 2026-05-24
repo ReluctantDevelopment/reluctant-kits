@@ -1,6 +1,6 @@
 # reluctant-kits
 
-A simple kit claimer resource for FiveM. Lets players open a menu, browse kit categories, and claim loadouts with weapons and items — with a configurable cooldown per kit or globally.
+A simple kit claimer resource for FiveM. Lets players open a menu, browse kit categories, and claim loadouts with weapons and items with a configurable cooldown per kit or globally.
 
 ---
 
